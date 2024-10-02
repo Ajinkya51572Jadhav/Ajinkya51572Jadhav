@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya51572jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya51572jadhav" /> </p>
 
-- 🔭 I’m currently working on **project**
+- 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **BBA(CA)**
+- 🌱 '📈💻 FrontEnd Developer **
 
 - 📫 How to reach me **ajaj51572@gmail.com**
 
