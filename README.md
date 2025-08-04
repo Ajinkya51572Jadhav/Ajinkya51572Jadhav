@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Jadhav</h1>
-<h3 align="center">🚀 A Passionate Frontend Developer from India 1.5 Years Experience</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node+%7C+UI%2FUX;Building+Beautiful+and+Responsive+Web+Apps" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="465" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
+
 
 ### 💫 About Me:
 
@@ -28,8 +29,6 @@
   <a href="https://nodejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" width="40" alt="Firebase" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /> </a>
-  <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" /> </a>
 </p>
 
@@ -71,8 +70,4 @@
 
 🚀 **Frontend Developer | 1.5 Years Experience**  
 - Built interactive, responsive web apps using MERN stack
-- Worked on real-world projects 
-
----
-
-### 🌱 Let's Build Something Awesome Together!
+- Worked on real-world projects
