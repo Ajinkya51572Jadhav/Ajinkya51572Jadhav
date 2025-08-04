@@ -70,10 +70,8 @@
 ### 💼 Experience Summary
 
 🚀 **Frontend Developer | 1.5 Years Experience**  
-- Built interactive, responsive web apps using React.js  
-- Created reusable UI components and implemented state management with Context API/Redux  
-- Integrated REST APIs and Firebase for real-time data  
-- Worked on real-world projects including Resume Builder, Portfolio, E-commerce Dashboard  
+- Built interactive, responsive web apps using MERN stack
+- Worked on real-world projects 
 
 ---
 
