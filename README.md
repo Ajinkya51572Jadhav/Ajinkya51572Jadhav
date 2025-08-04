@@ -12,7 +12,7 @@
 ### 💫 About Me:
 
 - 🔭 I’m currently working on **Full-stack and Frontend Projects**
-- 🌱 Continuously learning **DSA**
+- 🌱 Continuously learning **DSA & New Projects**
 - 👨‍💻 All of my projects are available on [My GitHub](https://github.com/ajinkya51572jadhav)
 - 📫 Reach me at: **ajaj51572@gmail.com**
 
