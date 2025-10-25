@@ -68,6 +68,6 @@
 
 ### 💼 Experience Summary
 
-🚀 **Frontend Developer | 1.5 Years Experience**  
+🚀 **Frontend Developer | 1.6 Years Experience**  
 - Built interactive, responsive web apps using MERN stack
 - Worked on real-world projects
